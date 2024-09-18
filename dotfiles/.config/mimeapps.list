@@ -21,3 +21,4 @@ application/x-extension-shtml=userapp-Firefox-O7R6N2.desktop;
 application/xhtml+xml=userapp-Firefox-O7R6N2.desktop;
 application/x-extension-xhtml=userapp-Firefox-O7R6N2.desktop;
 application/x-extension-xht=userapp-Firefox-O7R6N2.desktop;
+application/vnd.microsoft.portable-executable=wine-extension-msp.desktop;
